@@ -29,6 +29,6 @@ MonoBehaviour:
     This mod works by copying an external dll into the game''s files, verifying files
     will uninstall this, but running the game with this mod enabled should restore
     it back to working order.'
-  version: 1.8
+  version: 1.9
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 0bb7683336c68e7429690e5ec7fb0e6d, type: 3}

@@ -1,0 +1,5 @@
+D:\KTANE modding\Discord Rich Presence\Assets\Plugins\Managed\RichPresenceAssembly.dll
+D:\KTANE modding\Discord Rich Presence\Assets\Plugins\Managed\RichPresenceAssembly.pdb
+D:\KTANE modding\Discord Rich Presence\RichPresenceAssembly\obj\Release\RichPresenceAssembly.csprojAssemblyReference.cache
+D:\KTANE modding\Discord Rich Presence\RichPresenceAssembly\obj\Release\RichPresenceAssembly.dll
+D:\KTANE modding\Discord Rich Presence\RichPresenceAssembly\obj\Release\RichPresenceAssembly.pdb
